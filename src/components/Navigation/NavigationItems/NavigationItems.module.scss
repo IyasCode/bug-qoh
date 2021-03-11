@@ -1,0 +1,15 @@
+@import "../../../styles/base";
+
+.JoinNowStyle {
+  padding: 10px;
+  background-color: $primary-color;
+  border-radius: 5px;
+  color: white;
+  font-weight: 900;
+  border: white 3px solid;
+}
+
+.JoinNowStyle:hover {
+  background-color: white;
+  color: $primary-color;
+}
